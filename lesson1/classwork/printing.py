@@ -1,3 +1,3 @@
-print "Hello  world"!
-print "my  name  is instructor"()
-print " my favorite food is pizza 
+print print("Hello world!")
+print("My name is instructor!")
+print('My favorite food is pizza!')
